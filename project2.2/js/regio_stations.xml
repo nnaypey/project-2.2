@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <stn>25105</stn>
+  <name>DATSAV3 VIRT STATION (SINGAPORE)</name>
+  <country>SINGAPORE</country>
+  <latitude>1.383</latitude>
+  <longitude>103.717</longitude>
+  <elevation>0</elevation>
+</row>
+<row>
+  <stn>486940</stn>
+  <name>SINGAPORE/PAYA LEBA</name>
+  <country>SINGAPORE</country>
+  <latitude>1.367</latitude>
+  <longitude>103.917</longitude>
+  <elevation>32</elevation>
+</row>
+<row>
+  <stn>486980</stn>
+  <name>SINGAPORE/CHANGI AI</name>
+  <country>SINGAPORE</country>
+  <latitude>1.367</latitude>
+  <longitude>103.983</longitude>
+  <elevation>16</elevation>
+</row>
+<row>
+  <stn>486990</stn>
+  <name>SELETAR</name>
+  <country>SINGAPORE</country>
+  <latitude>1.417</latitude>
+  <longitude>103.867</longitude>
+  <elevation>11</elevation>
+</row>
+<row>
+  <stn>941170</stn>
+  <name>MANGO FARM</name>
+  <country>AUSTRALIA</country>
+  <latitude>-13.733</latitude>
+  <longitude>130.683</longitude>
+  <elevation>16</elevation>
+</row>
+<row>
+  <stn>941200</stn>
+  <name>DARWIN AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-12.417</latitude>
+  <longitude>130.883</longitude>
+  <elevation>30</elevation>
+</row>
+<row>
+  <stn>941230</stn>
+  <name>GUNPOINT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-12.233</latitude>
+  <longitude>131.032</longitude>
+  <elevation>15</elevation>
+</row>
+<row>
+  <stn>941310</stn>
+  <name>TINDAL RAAF</name>
+  <country>AUSTRALIA</country>
+  <latitude>-14.517</latitude>
+  <longitude>132.367</longitude>
+  <elevation>135</elevation>
+</row>
+<row>
+  <stn>941320</stn>
+  <name>KATHERINE AVIATION</name>
+  <country>AUSTRALIA</country>
+  <latitude>-14.45</latitude>
+  <longitude>132.267</longitude>
+  <elevation>109</elevation>
+</row>
+<row>
+  <stn>941500</stn>
+  <name>GOVE AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-12.283</latitude>
+  <longitude>136.817</longitude>
+  <elevation>53</elevation>
+</row>
+<row>
+  <stn>941700</stn>
+  <name>WEIPA AERO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-12.683</latitude>
+  <longitude>141.917</longitude>
+  <elevation>19</elevation>
+</row>
+<row>
+  <stn>941710</stn>
+  <name>SCHERGER</name>
+  <country>AUSTRALIA</country>
+  <latitude>-12.6</latitude>
+  <longitude>158.467</longitude>
+  <elevation>40</elevation>
+</row>
+<row>
+  <stn>941750</stn>
+  <name>THURSDAY ISLAND</name>
+  <country>AUSTRALIA</country>
+  <latitude>-10.567</latitude>
+  <longitude>142.217</longitude>
+  <elevation>8</elevation>
+</row>
+<row>
+  <stn>941840</stn>
+  <name>COEN AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-13.75</latitude>
+  <longitude>143.117</longitude>
+  <elevation>162</elevation>
+</row>
+<row>
+  <stn>942030</stn>
+  <name>BROOME AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-17.95</latitude>
+  <longitude>122.233</longitude>
+  <elevation>9</elevation>
+</row>
+<row>
+  <stn>942120</stn>
+  <name>HALLS CREEK AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-18.233</latitude>
+  <longitude>127.667</longitude>
+  <elevation>424</elevation>
+</row>
+<row>
+  <stn>942140</stn>
+  <name>WYNDHAM</name>
+  <country>AUSTRALIA</country>
+  <latitude>-15.483</latitude>
+  <longitude>128.116</longitude>
+  <elevation>16</elevation>
+</row>
+<row>
+  <stn>942160</stn>
+  <name>KUNUNURRA AERO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-15.783</latitude>
+  <longitude>128.717</longitude>
+  <elevation>44</elevation>
+</row>
+<row>
+  <stn>942340</stn>
+  <name>DALY WATERS</name>
+  <country>AUSTRALIA</country>
+  <latitude>-16.25</latitude>
+  <longitude>133.367</longitude>
+  <elevation>211</elevation>
+</row>
+<row>
+  <stn>942380</stn>
+  <name>TENNANT CREEK MET O</name>
+  <country>AUSTRALIA</country>
+  <latitude>-19.633</latitude>
+  <longitude>134.183</longitude>
+  <elevation>377</elevation>
+</row>
+<row>
+  <stn>942480</stn>
+  <name>CENTRE ISLAND</name>
+  <country>AUSTRALIA</country>
+  <latitude>-15.75</latitude>
+  <longitude>136.8</longitude>
+  <elevation>13</elevation>
+</row>
+<row>
+  <stn>942580</stn>
+  <name>WOLLOGORANG</name>
+  <country>AUSTRALIA</country>
+  <latitude>-17.2</latitude>
+  <longitude>137.933</longitude>
+  <elevation>61</elevation>
+</row>
+<row>
+  <stn>942590</stn>
+  <name>BURKETOWN POST OFFI</name>
+  <country>AUSTRALIA</country>
+  <latitude>-17.75</latitude>
+  <longitude>139.55</longitude>
+  <elevation>8</elevation>
+</row>
+<row>
+  <stn>942660</stn>
+  <name>NORMANTON AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-17.683</latitude>
+  <longitude>141.067</longitude>
+  <elevation>19</elevation>
+</row>
+<row>
+  <stn>942670</stn>
+  <name>NORMANTON</name>
+  <country>AUSTRALIA</country>
+  <latitude>-17.667</latitude>
+  <longitude>141.083</longitude>
+  <elevation>10</elevation>
+</row>
+<row>
+  <stn>942750</stn>
+  <name>GEORGETOWN POST OFF</name>
+  <country>AUSTRALIA</country>
+  <latitude>-18.3</latitude>
+  <longitude>143.55</longitude>
+  <elevation>295</elevation>
+</row>
+<row>
+  <stn>942830</stn>
+  <name>COOKTOWN MISSION</name>
+  <country>AUSTRALIA</country>
+  <latitude>-15.433</latitude>
+  <longitude>145.183</longitude>
+  <elevation>9</elevation>
+</row>
+<row>
+  <stn>942850</stn>
+  <name>LOW ISLES LIGHTHOUS</name>
+  <country>AUSTRALIA</country>
+  <latitude>-16.383</latitude>
+  <longitude>145.567</longitude>
+  <elevation>4</elevation>
+</row>
+<row>
+  <stn>942870</stn>
+  <name>CAIRNS AERO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-16.883</latitude>
+  <longitude>145.75</longitude>
+  <elevation>8</elevation>
+</row>
+<row>
+  <stn>942940</stn>
+  <name>TOWNSVILLE AERO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-19.25</latitude>
+  <longitude>146.767</longitude>
+  <elevation>9</elevation>
+</row>
+<row>
+  <stn>942990</stn>
+  <name>WILLIS ISLAND</name>
+  <country>AUSTRALIA</country>
+  <latitude>-16.3</latitude>
+  <longitude>149.967</longitude>
+  <elevation>9</elevation>
+</row>
+<row>
+  <stn>943000</stn>
+  <name>CARNARVON AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-24.883</latitude>
+  <longitude>113.667</longitude>
+  <elevation>8</elevation>
+</row>
+<row>
+  <stn>943020</stn>
+  <name>LEARMONTH AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-22.233</latitude>
+  <longitude>114.083</longitude>
+  <elevation>5</elevation>
+</row>
+<row>
+  <stn>943050</stn>
+  <name>ONSLOW</name>
+  <country>AUSTRALIA</country>
+  <latitude>-21.633</latitude>
+  <longitude>115.117</longitude>
+  <elevation>5</elevation>
+</row>
+<row>
+  <stn>943090</stn>
+  <name>ROEBOURNE POST OFFI</name>
+  <country>AUSTRALIA</country>
+  <latitude>-20.783</latitude>
+  <longitude>117.15</longitude>
+  <elevation>13</elevation>
+</row>
+<row>
+  <stn>943120</stn>
+  <name>PORT HEDLAND AIRPOR</name>
+  <country>AUSTRALIA</country>
+  <latitude>-20.367</latitude>
+  <longitude>118.633</longitude>
+  <elevation>9</elevation>
+</row>
+<row>
+  <stn>943260</stn>
+  <name>ALICE SPRINGS AIRPO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-23.8</latitude>
+  <longitude>133.883</longitude>
+  <elevation>547</elevation>
+</row>
+<row>
+  <stn>943320</stn>
+  <name>MOUNT ISA AERO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-20.683</latitude>
+  <longitude>139.483</longitude>
+  <elevation>341</elevation>
+</row>
+<row>
+  <stn>943330</stn>
+  <name>BOULIA AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-22.917</latitude>
+  <longitude>139.9</longitude>
+  <elevation>158</elevation>
+</row>
+<row>
+  <stn>943350</stn>
+  <name>CLONCURRY AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-20.667</latitude>
+  <longitude>140.5</longitude>
+  <elevation>187</elevation>
+</row>
+<row>
+  <stn>943390</stn>
+  <name>WINTON (POST OFFICE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-22.383</latitude>
+  <longitude>143.033</longitude>
+  <elevation>184</elevation>
+</row>
+<row>
+  <stn>943400</stn>
+  <name>RICHMOND POST OFFIC</name>
+  <country>AUSTRALIA</country>
+  <latitude>-20.733</latitude>
+  <longitude>143.133</longitude>
+  <elevation>214</elevation>
+</row>
+<row>
+  <stn>943510</stn>
+  <name>BLACKALL</name>
+  <country>AUSTRALIA</country>
+  <latitude>-24.417</latitude>
+  <longitude>145.467</longitude>
+  <elevation>285</elevation>
+</row>
+<row>
+  <stn>943630</stn>
+  <name>EMERALD AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-23.567</latitude>
+  <longitude>148.183</longitude>
+  <elevation>190</elevation>
+</row>
+<row>
+  <stn>943660</stn>
+  <name>BOWEN AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-20.017</latitude>
+  <longitude>148.2</longitude>
+  <elevation>6</elevation>
+</row>
+<row>
+  <stn>943670</stn>
+  <name>MACKAY MO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-21.117</latitude>
+  <longitude>149.217</longitude>
+  <elevation>33</elevation>
+</row>
+<row>
+  <stn>943690</stn>
+  <name>ST LAWRENCE POST OF</name>
+  <country>AUSTRALIA</country>
+  <latitude>-22.35</latitude>
+  <longitude>149.533</longitude>
+  <elevation>18</elevation>
+</row>
+<row>
+  <stn>943740</stn>
+  <name>ROCKHAMPTON AERO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-23.383</latitude>
+  <longitude>150.483</longitude>
+  <elevation>14</elevation>
+</row>
+<row>
+  <stn>943800</stn>
+  <name>GLADSTONE RADAR</name>
+  <country>AUSTRALIA</country>
+  <latitude>-23.85</latitude>
+  <longitude>151.267</longitude>
+  <elevation>75</elevation>
+</row>
+<row>
+  <stn>943840</stn>
+  <name>TOWN OF 1770</name>
+  <country>AUSTRALIA</country>
+  <latitude>-24.15</latitude>
+  <longitude>151.883</longitude>
+  <elevation>47</elevation>
+</row>
+<row>
+  <stn>943870</stn>
+  <name>BUNDABERG AERO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-24.9</latitude>
+  <longitude>152.317</longitude>
+  <elevation>27</elevation>
+</row>
+<row>
+  <stn>943900</stn>
+  <name>SANDY CAPE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-24.717</latitude>
+  <longitude>153.2</longitude>
+  <elevation>101</elevation>
+</row>
+<row>
+  <stn>944010</stn>
+  <name>KALBARRI P.O.</name>
+  <country>AUSTRALIA</country>
+  <latitude>-27.717</latitude>
+  <longitude>114.167</longitude>
+  <elevation>7</elevation>
+</row>
+<row>
+  <stn>944020</stn>
+  <name>SHARK BAY (DENHAM)</name>
+  <country>AUSTRALIA</country>
+  <latitude>-25.917</latitude>
+  <longitude>113.517</longitude>
+  <elevation>10</elevation>
+</row>
+<row>
+  <stn>944030</stn>
+  <name>GERALDTON AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-28.8</latitude>
+  <longitude>114.7</longitude>
+  <elevation>35</elevation>
+</row>
+<row>
+  <stn>944040</stn>
+  <name>PAYNES FIND</name>
+  <country>AUSTRALIA</country>
+  <latitude>-29.267</latitude>
+  <longitude>117.683</longitude>
+  <elevation>340</elevation>
+</row>
+<row>
+  <stn>944300</stn>
+  <name>MEEKATHARRA AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-26.617</latitude>
+  <longitude>118.55</longitude>
+  <elevation>519</elevation>
+</row>
+<row>
+  <stn>944480</stn>
+  <name>LEONORA POST OFFICE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-28.883</latitude>
+  <longitude>121.333</longitude>
+  <elevation>380</elevation>
+</row>
+<row>
+  <stn>944610</stn>
+  <name>GILES METEOROLOGICA</name>
+  <country>AUSTRALIA</country>
+  <latitude>-25.033</latitude>
+  <longitude>128.3</longitude>
+  <elevation>599</elevation>
+</row>
+<row>
+  <stn>944660</stn>
+  <name>KULGERA</name>
+  <country>AUSTRALIA</country>
+  <latitude>-25.85</latitude>
+  <longitude>133.3</longitude>
+  <elevation>510</elevation>
+</row>
+<row>
+  <stn>944760</stn>
+  <name>OODNADATTA AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-27.55</latitude>
+  <longitude>135.45</longitude>
+  <elevation>117</elevation>
+</row>
+<row>
+  <stn>944770</stn>
+  <name>MARLA POLICE STATIO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-27.3</latitude>
+  <longitude>133.617</longitude>
+  <elevation>324</elevation>
+</row>
+<row>
+  <stn>944810</stn>
+  <name>MOOMBA (PRIVATE)</name>
+  <country>AUSTRALIA</country>
+  <latitude>-28.117</latitude>
+  <longitude>140.217</longitude>
+  <elevation>38</elevation>
+</row>
+<row>
+  <stn>944820</stn>
+  <name>BIRDSVILLE POLICE S</name>
+  <country>AUSTRALIA</country>
+  <latitude>-25.9</latitude>
+  <longitude>139.35</longitude>
+  <elevation>48</elevation>
+</row>
+<row>
+  <stn>944850</stn>
+  <name>TIBOOBURRA POST OFF</name>
+  <country>AUSTRALIA</country>
+  <latitude>-29.433</latitude>
+  <longitude>142</longitude>
+  <elevation>184</elevation>
+</row>
+<row>
+  <stn>944880</stn>
+  <name>WINDORAH</name>
+  <country>AUSTRALIA</country>
+  <latitude>-25.417</latitude>
+  <longitude>142.65</longitude>
+  <elevation>129</elevation>
+</row>
+<row>
+  <stn>944920</stn>
+  <name>THARGOMINDAH POST O</name>
+  <country>AUSTRALIA</country>
+  <latitude>-28</latitude>
+  <longitude>143.817</longitude>
+  <elevation>130</elevation>
+</row>
+<row>
+  <stn>944940</stn>
+  <name>QUILPIE AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-26.617</latitude>
+  <longitude>144.25</longitude>
+  <elevation>198</elevation>
+</row>
+<row>
+  <stn>945000</stn>
+  <name>CUNNAMULLA POST OFF</name>
+  <country>AUSTRALIA</country>
+  <latitude>-28.067</latitude>
+  <longitude>145.683</longitude>
+  <elevation>191</elevation>
+</row>
+<row>
+  <stn>945100</stn>
+  <name>CHARLEVILLE AERO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-26.417</latitude>
+  <longitude>146.267</longitude>
+  <elevation>303</elevation>
+</row>
+<row>
+  <stn>945110</stn>
+  <name>INJUNE POST OFFICE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-25.85</latitude>
+  <longitude>148.567</longitude>
+  <elevation>391</elevation>
+</row>
+<row>
+  <stn>945150</stn>
+  <name>ROMA AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-26.55</latitude>
+  <longitude>148.783</longitude>
+  <elevation>304</elevation>
+</row>
+<row>
+  <stn>945270</stn>
+  <name>MOREE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-29.467</latitude>
+  <longitude>149.85</longitude>
+  <elevation>212</elevation>
+</row>
+<row>
+  <stn>945300</stn>
+  <name>GOONDIWINDI AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-28.517</latitude>
+  <longitude>150.317</longitude>
+  <elevation>219</elevation>
+</row>
+<row>
+  <stn>945430</stn>
+  <name>GAYNDAH POST OFFICE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-25.633</latitude>
+  <longitude>151.617</longitude>
+  <elevation>108</elevation>
+</row>
+<row>
+  <stn>945510</stn>
+  <name>TOOWOOMBA</name>
+  <country>AUSTRALIA</country>
+  <latitude>-27.583</latitude>
+  <longitude>151.933</longitude>
+  <elevation>676</elevation>
+</row>
+<row>
+  <stn>945640</stn>
+  <name>RAINBOW BEACH</name>
+  <country>AUSTRALIA</country>
+  <latitude>-25.9</latitude>
+  <longitude>153.083</longitude>
+  <elevation>46</elevation>
+</row>
+<row>
+  <stn>945670</stn>
+  <name>MARYBOROUGH COMPOSI</name>
+  <country>AUSTRALIA</country>
+  <latitude>-25.517</latitude>
+  <longitude>152.717</longitude>
+  <elevation>11</elevation>
+</row>
+<row>
+  <stn>945680</stn>
+  <name>AMBERLEY AMO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-27.633</latitude>
+  <longitude>152.717</longitude>
+  <elevation>31</elevation>
+</row>
+<row>
+  <stn>945750</stn>
+  <name>ARCHERFIELD AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-27.567</latitude>
+  <longitude>153</longitude>
+  <elevation>13</elevation>
+</row>
+<row>
+  <stn>945760</stn>
+  <name>BRISBANE CENTRAL</name>
+  <country>AUSTRALIA</country>
+  <latitude>-27.483</latitude>
+  <longitude>153.033</longitude>
+  <elevation>8</elevation>
+</row>
+<row>
+  <stn>945780</stn>
+  <name>BRISBANE AERO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-27.383</latitude>
+  <longitude>153.133</longitude>
+  <elevation>10</elevation>
+</row>
+<row>
+  <stn>945890</stn>
+  <name>YAMBA PILOT STATION</name>
+  <country>AUSTRALIA</country>
+  <latitude>-29.433</latitude>
+  <longitude>153.367</longitude>
+  <elevation>30</elevation>
+</row>
+<row>
+  <stn>945920</stn>
+  <name>COOLANGATTA AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-28.167</latitude>
+  <longitude>153.5</longitude>
+  <elevation>6</elevation>
+</row>
+<row>
+  <stn>945940</stn>
+  <name>CAPE MORETON LIGHTH</name>
+  <country>AUSTRALIA</country>
+  <latitude>-27.033</latitude>
+  <longitude>153.467</longitude>
+  <elevation>101</elevation>
+</row>
+<row>
+  <stn>945951</stn>
+  <name>AMBERLEY</name>
+  <country>AUSTRALIA</country>
+  <latitude>-27.633</latitude>
+  <longitude>152.7</longitude>
+  <elevation>91</elevation>
+</row>
+<row>
+  <stn>945955</stn>
+  <name>GOVE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-12.267</latitude>
+  <longitude>136.817</longitude>
+  <elevation>179</elevation>
+</row>
+<row>
+  <stn>945957</stn>
+  <name>TENNANT CREEK</name>
+  <country>AUSTRALIA</country>
+  <latitude>-19.633</latitude>
+  <longitude>134.183</longitude>
+  <elevation>386</elevation>
+</row>
+<row>
+  <stn>946010</stn>
+  <name>CAPE LEEUWIN</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34.367</latitude>
+  <longitude>115.133</longitude>
+  <elevation>14</elevation>
+</row>
+<row>
+  <stn>946080</stn>
+  <name>MOUNT LAWLEY PERTH</name>
+  <country>AUSTRALIA</country>
+  <latitude>-31.917</latitude>
+  <longitude>115.867</longitude>
+  <elevation>25</elevation>
+</row>
+<row>
+  <stn>946100</stn>
+  <name>PERTH AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-31.933</latitude>
+  <longitude>115.967</longitude>
+  <elevation>20</elevation>
+</row>
+<row>
+  <stn>946120</stn>
+  <name>PEARCE RAAF</name>
+  <country>AUSTRALIA</country>
+  <latitude>-31.667</latitude>
+  <longitude>116.017</longitude>
+  <elevation>54</elevation>
+</row>
+<row>
+  <stn>946190</stn>
+  <name>DALWALLINU</name>
+  <country>AUSTRALIA</country>
+  <latitude>-30.283</latitude>
+  <longitude>116.667</longitude>
+  <elevation>338</elevation>
+</row>
+<row>
+  <stn>946340</stn>
+  <name>SOUTHERN CROSS</name>
+  <country>AUSTRALIA</country>
+  <latitude>-31.233</latitude>
+  <longitude>119.333</longitude>
+  <elevation>356</elevation>
+</row>
+<row>
+  <stn>946350</stn>
+  <name>LAKE GRACE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.117</latitude>
+  <longitude>118.467</longitude>
+  <elevation>287</elevation>
+</row>
+<row>
+  <stn>946370</stn>
+  <name>KALGOORLIE-BOULDER</name>
+  <country>AUSTRALIA</country>
+  <latitude>-30.783</latitude>
+  <longitude>121.45</longitude>
+  <elevation>370</elevation>
+</row>
+<row>
+  <stn>946380</stn>
+  <name>ESPERANCE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.833</latitude>
+  <longitude>121.883</longitude>
+  <elevation>27</elevation>
+</row>
+<row>
+  <stn>946390</stn>
+  <name>NORSEMAN</name>
+  <country>AUSTRALIA</country>
+  <latitude>-32.2</latitude>
+  <longitude>121.783</longitude>
+  <elevation>278</elevation>
+</row>
+<row>
+  <stn>946460</stn>
+  <name>FORREST AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-30.833</latitude>
+  <longitude>128.1</longitude>
+  <elevation>160</elevation>
+</row>
+<row>
+  <stn>946530</stn>
+  <name>CEDUNA AMO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-32.133</latitude>
+  <longitude>133.7</longitude>
+  <elevation>16</elevation>
+</row>
+<row>
+  <stn>946560</stn>
+  <name>ELLISTON (P.O.)</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.65</latitude>
+  <longitude>134.883</longitude>
+  <elevation>5</elevation>
+</row>
+<row>
+  <stn>946570</stn>
+  <name>KYANCUTTA</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.133</latitude>
+  <longitude>135.55</longitude>
+  <elevation>58</elevation>
+</row>
+<row>
+  <stn>946590</stn>
+  <name>WOOMERA AERODROME</name>
+  <country>AUSTRALIA</country>
+  <latitude>-31.15</latitude>
+  <longitude>136.817</longitude>
+  <elevation>167</elevation>
+</row>
+<row>
+  <stn>946600</stn>
+  <name>PORT LINCOLN</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34.717</latitude>
+  <longitude>135.867</longitude>
+  <elevation>5</elevation>
+</row>
+<row>
+  <stn>946640</stn>
+  <name>WHYALLA</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.017</latitude>
+  <longitude>137.517</longitude>
+  <elevation>15</elevation>
+</row>
+<row>
+  <stn>946650</stn>
+  <name>MAITLAND</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34.383</latitude>
+  <longitude>137.667</longitude>
+  <elevation>186</elevation>
+</row>
+<row>
+  <stn>946660</stn>
+  <name>WARBURTO POINT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34</latitude>
+  <longitude>137.533</longitude>
+  <elevation>1</elevation>
+</row>
+<row>
+  <stn>946720</stn>
+  <name>ADELAIDE AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34.95</latitude>
+  <longitude>138.533</longitude>
+  <elevation>8</elevation>
+</row>
+<row>
+  <stn>946750</stn>
+  <name>ADELAIDE REGIONAL O</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34.917</latitude>
+  <longitude>138.617</longitude>
+  <elevation>51</elevation>
+</row>
+<row>
+  <stn>946770</stn>
+  <name>HINDMARSH ISLAND AW</name>
+  <country>AUSTRALIA</country>
+  <latitude>-35.517</latitude>
+  <longitude>138.8</longitude>
+  <elevation>10</elevation>
+</row>
+<row>
+  <stn>946800</stn>
+  <name>EUDUNDA</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34.183</latitude>
+  <longitude>139.083</longitude>
+  <elevation>416</elevation>
+</row>
+<row>
+  <stn>946870</stn>
+  <name>RENMARK</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34.167</latitude>
+  <longitude>140.75</longitude>
+  <elevation>21</elevation>
+</row>
+<row>
+  <stn>946880</stn>
+  <name>LAMEROO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-35.333</latitude>
+  <longitude>140.517</longitude>
+  <elevation>100</elevation>
+</row>
+<row>
+  <stn>946930</stn>
+  <name>MILDURA AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34.233</latitude>
+  <longitude>142.083</longitude>
+  <elevation>53</elevation>
+</row>
+<row>
+  <stn>947030</stn>
+  <name>BOURKE AIRPORT AWS</name>
+  <country>AUSTRALIA</country>
+  <latitude>-30.033</latitude>
+  <longitude>145.95</longitude>
+  <elevation>108</elevation>
+</row>
+<row>
+  <stn>947200</stn>
+  <name>COWRA AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.85</latitude>
+  <longitude>148.65</longitude>
+  <elevation>294</elevation>
+</row>
+<row>
+  <stn>947260</stn>
+  <name>ORANGE AIRPORT COMP</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.383</latitude>
+  <longitude>149.117</longitude>
+  <elevation>951</elevation>
+</row>
+<row>
+  <stn>947280</stn>
+  <name>COONABARABRAN NAMOI</name>
+  <country>AUSTRALIA</country>
+  <latitude>-31.267</latitude>
+  <longitude>149.267</longitude>
+  <elevation>510</elevation>
+</row>
+<row>
+  <stn>947440</stn>
+  <name>KATOOMBA</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.717</latitude>
+  <longitude>150.283</longitude>
+  <elevation>1030</elevation>
+</row>
+<row>
+  <stn>947470</stn>
+  <name>BOWRAL (PARRY DRIVE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34.483</latitude>
+  <longitude>150.4</longitude>
+  <elevation>690</elevation>
+</row>
+<row>
+  <stn>947500</stn>
+  <name>NOWRA RAN AIR STATI</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34.95</latitude>
+  <longitude>150.533</longitude>
+  <elevation>105</elevation>
+</row>
+<row>
+  <stn>947530</stn>
+  <name>RICHMOND (AUS-AFB)</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.6</latitude>
+  <longitude>150.783</longitude>
+  <elevation>21</elevation>
+</row>
+<row>
+  <stn>947560</stn>
+  <name>MURRURUNDI POST OFF</name>
+  <country>AUSTRALIA</country>
+  <latitude>-31.767</latitude>
+  <longitude>150.833</longitude>
+  <elevation>466</elevation>
+</row>
+<row>
+  <stn>947620</stn>
+  <name>HOLSWORTHY CONTROL</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.983</latitude>
+  <longitude>150.917</longitude>
+  <elevation>40</elevation>
+</row>
+<row>
+  <stn>947670</stn>
+  <name>SYDNEY AIRPORT AMO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.933</latitude>
+  <longitude>151.183</longitude>
+  <elevation>5</elevation>
+</row>
+<row>
+  <stn>947680</stn>
+  <name>SYDNEY REGIONAL OFF</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.85</latitude>
+  <longitude>151.2</longitude>
+  <elevation>40</elevation>
+</row>
+<row>
+  <stn>947700</stn>
+  <name>NORAH HEAD LIGHTHOU</name>
+  <country>AUSTRALIA</country>
+  <latitude>-33.283</latitude>
+  <longitude>151.567</longitude>
+  <elevation>24</elevation>
+</row>
+<row>
+  <stn>947730</stn>
+  <name>ARMIDALE UNIVERSITY</name>
+  <country>AUSTRALIA</country>
+  <latitude>-30.533</latitude>
+  <longitude>151.667</longitude>
+  <elevation>987</elevation>
+</row>
+<row>
+  <stn>947740</stn>
+  <name>NEWCASTLE NOBBYS SI</name>
+  <country>AUSTRALIA</country>
+  <latitude>-32.917</latitude>
+  <longitude>151.783</longitude>
+  <elevation>33</elevation>
+</row>
+<row>
+  <stn>947760</stn>
+  <name>WILLIAMTOWN RAAF</name>
+  <country>AUSTRALIA</country>
+  <latitude>-32.8</latitude>
+  <longitude>151.833</longitude>
+  <elevation>8</elevation>
+</row>
+<row>
+  <stn>947780</stn>
+  <name>GLEN INNES POST OFF</name>
+  <country>AUSTRALIA</country>
+  <latitude>-29.733</latitude>
+  <longitude>151.733</longitude>
+  <elevation>1062</elevation>
+</row>
+<row>
+  <stn>947840</stn>
+  <name>TAREE (RADIO STATIO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-31.9</latitude>
+  <longitude>152.483</longitude>
+  <elevation>7</elevation>
+</row>
+<row>
+  <stn>947870</stn>
+  <name>PORT MACQUARIE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-31.433</latitude>
+  <longitude>152.917</longitude>
+  <elevation>9</elevation>
+</row>
+<row>
+  <stn>947900</stn>
+  <name>SMOKY CAPE LIGHTHOU</name>
+  <country>AUSTRALIA</country>
+  <latitude>-30.917</latitude>
+  <longitude>153.083</longitude>
+  <elevation>120</elevation>
+</row>
+<row>
+  <stn>947910</stn>
+  <name>COFFS HARBOUR MO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-30.317</latitude>
+  <longitude>153.117</longitude>
+  <elevation>6</elevation>
+</row>
+<row>
+  <stn>948020</stn>
+  <name>ALBANY AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34.933</latitude>
+  <longitude>117.8</longitude>
+  <elevation>69</elevation>
+</row>
+<row>
+  <stn>948040</stn>
+  <name>NEPTUNE ISLAND</name>
+  <country>AUSTRALIA</country>
+  <latitude>-35.333</latitude>
+  <longitude>136.117</longitude>
+  <elevation>32</elevation>
+</row>
+<row>
+  <stn>948050</stn>
+  <name>CAPE BORDA</name>
+  <country>AUSTRALIA</country>
+  <latitude>-35.75</latitude>
+  <longitude>136.583</longitude>
+  <elevation>144</elevation>
+</row>
+<row>
+  <stn>948160</stn>
+  <name>KEITH</name>
+  <country>AUSTRALIA</country>
+  <latitude>-36.1</latitude>
+  <longitude>140.35</longitude>
+  <elevation>31</elevation>
+</row>
+<row>
+  <stn>948190</stn>
+  <name>NARACOORTE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-36.95</latitude>
+  <longitude>140.733</longitude>
+  <elevation>58</elevation>
+</row>
+<row>
+  <stn>948210</stn>
+  <name>MOUNT GAMBIER AERO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-37.733</latitude>
+  <longitude>140.783</longitude>
+  <elevation>69</elevation>
+</row>
+<row>
+  <stn>948270</stn>
+  <name>NHILL COMPOSITE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-36.333</latitude>
+  <longitude>141.633</longitude>
+  <elevation>133</elevation>
+</row>
+<row>
+  <stn>948280</stn>
+  <name>PORTLAND CASHMORE A</name>
+  <country>AUSTRALIA</country>
+  <latitude>-38.317</latitude>
+  <longitude>141.467</longitude>
+  <elevation>82</elevation>
+</row>
+<row>
+  <stn>948290</stn>
+  <name>HAMILTON AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-37.65</latitude>
+  <longitude>142.067</longitude>
+  <elevation>242</elevation>
+</row>
+<row>
+  <stn>948320</stn>
+  <name>WARRNAMBOOL AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-38.283</latitude>
+  <longitude>142.433</longitude>
+  <elevation>68</elevation>
+</row>
+<row>
+  <stn>948340</stn>
+  <name>ARARAT PRISON</name>
+  <country>AUSTRALIA</country>
+  <latitude>-37.283</latitude>
+  <longitude>142.983</longitude>
+  <elevation>296</elevation>
+</row>
+<row>
+  <stn>948420</stn>
+  <name>CAPE OTWAY LIGHTHOU</name>
+  <country>AUSTRALIA</country>
+  <latitude>-38.85</latitude>
+  <longitude>143.517</longitude>
+  <elevation>83</elevation>
+</row>
+<row>
+  <stn>948430</stn>
+  <name>SWAN HILL AERODROME</name>
+  <country>AUSTRALIA</country>
+  <latitude>-35.383</latitude>
+  <longitude>143.533</longitude>
+  <elevation>71</elevation>
+</row>
+<row>
+  <stn>948510</stn>
+  <name>KING ISLAND CURRIE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-39.933</latitude>
+  <longitude>143.85</longitude>
+  <elevation>24</elevation>
+</row>
+<row>
+  <stn>948520</stn>
+  <name>BALLARAT AERODROME</name>
+  <country>AUSTRALIA</country>
+  <latitude>-37.517</latitude>
+  <longitude>143.783</longitude>
+  <elevation>436</elevation>
+</row>
+<row>
+  <stn>948640</stn>
+  <name>GOLDSTREAM</name>
+  <country>AUSTRALIA</country>
+  <latitude>-37.733</latitude>
+  <longitude>145.4</longitude>
+  <elevation>84</elevation>
+</row>
+<row>
+  <stn>948650</stn>
+  <name>LAVERTON AERODROME</name>
+  <country>AUSTRALIA</country>
+  <latitude>-37.867</latitude>
+  <longitude>144.75</longitude>
+  <elevation>20</elevation>
+</row>
+<row>
+  <stn>948660</stn>
+  <name>MELBOURNE AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-37.667</latitude>
+  <longitude>144.85</longitude>
+  <elevation>119</elevation>
+</row>
+<row>
+  <stn>948680</stn>
+  <name>MELBOURNE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-37.817</latitude>
+  <longitude>144.967</longitude>
+  <elevation>32</elevation>
+</row>
+<row>
+  <stn>948840</stn>
+  <name>BENALLA</name>
+  <country>AUSTRALIA</country>
+  <latitude>-36.55</latitude>
+  <longitude>145.967</longitude>
+  <elevation>170</elevation>
+</row>
+<row>
+  <stn>948910</stn>
+  <name>LATROBE VALLEY AIRP</name>
+  <country>AUSTRALIA</country>
+  <latitude>-38.217</latitude>
+  <longitude>146.467</longitude>
+  <elevation>56</elevation>
+</row>
+<row>
+  <stn>948930</stn>
+  <name>WILSONS PROMONTORY</name>
+  <country>AUSTRALIA</country>
+  <latitude>-39.117</latitude>
+  <longitude>146.417</longitude>
+  <elevation>97</elevation>
+</row>
+<row>
+  <stn>949070</stn>
+  <name>EAST SALE AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-38.1</latitude>
+  <longitude>147.133</longitude>
+  <elevation>8</elevation>
+</row>
+<row>
+  <stn>949100</stn>
+  <name>WAGGA WAGGA AMO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-35.167</latitude>
+  <longitude>147.45</longitude>
+  <elevation>213</elevation>
+</row>
+<row>
+  <stn>949260</stn>
+  <name>CANBERRA AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-35.3</latitude>
+  <longitude>149.2</longitude>
+  <elevation>580</elevation>
+</row>
+<row>
+  <stn>949330</stn>
+  <name>GABO ISLAND</name>
+  <country>AUSTRALIA</country>
+  <latitude>-37.567</latitude>
+  <longitude>149.9</longitude>
+  <elevation>15</elevation>
+</row>
+<row>
+  <stn>949370</stn>
+  <name>MORUYA HEADS PILOT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-35.917</latitude>
+  <longitude>150.15</longitude>
+  <elevation>17</elevation>
+</row>
+<row>
+  <stn>949400</stn>
+  <name>JERVIS BAY</name>
+  <country>AUSTRALIA</country>
+  <latitude>-35.083</latitude>
+  <longitude>150.8</longitude>
+  <elevation>85</elevation>
+</row>
+<row>
+  <stn>949620</stn>
+  <name>MAATSUYKER ISLAND L</name>
+  <country>AUSTRALIA</country>
+  <latitude>-43.65</latitude>
+  <longitude>146.267</longitude>
+  <elevation>148</elevation>
+</row>
+<row>
+  <stn>949650</stn>
+  <name>LOW HEAD (LGT-H)</name>
+  <country>AUSTRALIA</country>
+  <latitude>-41.05</latitude>
+  <longitude>146.8</longitude>
+  <elevation>30</elevation>
+</row>
+<row>
+  <stn>949670</stn>
+  <name>CAPE BRUNY LIGHTHOU</name>
+  <country>AUSTRALIA</country>
+  <latitude>-43.5</latitude>
+  <longitude>147.15</longitude>
+  <elevation>53</elevation>
+</row>
+<row>
+  <stn>949680</stn>
+  <name>LAUNCESTON AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-41.533</latitude>
+  <longitude>147.2</longitude>
+  <elevation>178</elevation>
+</row>
+<row>
+  <stn>949700</stn>
+  <name>HOBART ELLERSLIE RO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-42.883</latitude>
+  <longitude>147.333</longitude>
+  <elevation>51</elevation>
+</row>
+<row>
+  <stn>949740</stn>
+  <name>CAPE SORELL</name>
+  <country>AUSTRALIA</country>
+  <latitude>-42.2</latitude>
+  <longitude>145.167</longitude>
+  <elevation>20</elevation>
+</row>
+<row>
+  <stn>949750</stn>
+  <name>HOBART AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-42.833</latitude>
+  <longitude>147.5</longitude>
+  <elevation>27</elevation>
+</row>
+<row>
+  <stn>949780</stn>
+  <name>PORT ARTHUR (PALMER</name>
+  <country>AUSTRALIA</country>
+  <latitude>-43.167</latitude>
+  <longitude>147.833</longitude>
+  <elevation>193</elevation>
+</row>
+<row>
+  <stn>949830</stn>
+  <name>EDDYSTONE POINT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-41</latitude>
+  <longitude>148.35</longitude>
+  <elevation>21</elevation>
+</row>
+<row>
+  <stn>949950</stn>
+  <name>LORD HOWE ISLAND AE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-31.533</latitude>
+  <longitude>159.067</longitude>
+  <elevation>7</elevation>
+</row>
+<row>
+  <stn>949960</stn>
+  <name>NORFOLK ISLAND AERO</name>
+  <country>NORFOLK ISLAND</country>
+  <latitude>-29.033</latitude>
+  <longitude>167.933</longitude>
+  <elevation>110</elevation>
+</row>
+<row>
+  <stn>949980</stn>
+  <name>MACQUARIE ISLAND</name>
+  <country>AUSTRALIA</country>
+  <latitude>-54.5</latitude>
+  <longitude>158.95</longitude>
+  <elevation>8</elevation>
+</row>
+<row>
+  <stn>952830</stn>
+  <name>COOKTOWN AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-15.45</latitude>
+  <longitude>145.183</longitude>
+  <elevation>6</elevation>
+</row>
+<row>
+  <stn>954810</stn>
+  <name>MOOMBA AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-28.1</latitude>
+  <longitude>140.2</longitude>
+  <elevation>38</elevation>
+</row>
+<row>
+  <stn>955270</stn>
+  <name>MOREE AERO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-29.483</latitude>
+  <longitude>149.833</longitude>
+  <elevation>218</elevation>
+</row>
+<row>
+  <stn>956000</stn>
+  <name>JURIEN</name>
+  <country>AUSTRALIA</country>
+  <latitude>-30.3</latitude>
+  <longitude>115.033</longitude>
+  <elevation>5</elevation>
+</row>
+<row>
+  <stn>956060</stn>
+  <name>LANCELIN</name>
+  <country>AUSTRALIA</country>
+  <latitude>-31.017</latitude>
+  <longitude>115.317</longitude>
+  <elevation>5</elevation>
+</row>
+<row>
+  <stn>956590</stn>
+  <name>MINLATON AERO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-34.75</latitude>
+  <longitude>137.517</longitude>
+  <elevation>32</elevation>
+</row>
+<row>
+  <stn>957030</stn>
+  <name>BOURKE ARPT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-30.033</latitude>
+  <longitude>145.95</longitude>
+  <elevation>108</elevation>
+</row>
+<row>
+  <stn>958810</stn>
+  <name>WONTHAGGI COMPOSITE</name>
+  <country>AUSTRALIA</country>
+  <latitude>-38.6</latitude>
+  <longitude>145.583</longitude>
+  <elevation>42</elevation>
+</row>
+<row>
+  <stn>959570</stn>
+  <name>WYNYARD AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-41</latitude>
+  <longitude>145.733</longitude>
+  <elevation>12</elevation>
+</row>
+<row>
+  <stn>959600</stn>
+  <name>DEVONPORT AIRPORT</name>
+  <country>AUSTRALIA</country>
+  <latitude>-41.167</latitude>
+  <longitude>146.417</longitude>
+  <elevation>10</elevation>
+</row>
+<row>
+  <stn>959800</stn>
+  <name>SWAN ISLAND LIGHTHO</name>
+  <country>AUSTRALIA</country>
+  <latitude>-40.733</latitude>
+  <longitude>148.117</longitude>
+  <elevation>9</elevation>
+</row>
+<row>
+  <stn>960350</stn>
+  <name>MEDAN/POLONIA</name>
+  <country>INDONESIA</country>
+  <latitude>3.567</latitude>
+  <longitude>98.683</longitude>
+  <elevation>25</elevation>
+</row>
+<row>
+  <stn>960870</stn>
+  <name>BATAM/HANG NADIM</name>
+  <country>INDONESIA</country>
+  <latitude>1.117</latitude>
+  <longitude>104.117</longitude>
+  <elevation>24</elevation>
+</row>
+<row>
+  <stn>961090</stn>
+  <name>PEKAN BARU/SIMPANGT</name>
+  <country>INDONESIA</country>
+  <latitude>0.467</latitude>
+  <longitude>101.45</longitude>
+  <elevation>31</elevation>
+</row>
+<row>
+  <stn>961790</stn>
+  <name>SINGKEP/DABO</name>
+  <country>INDONESIA</country>
+  <latitude>-0.483</latitude>
+  <longitude>104.583</longitude>
+  <elevation>31</elevation>
+</row>
+<row>
+  <stn>962210</stn>
+  <name>PALEMBANG/ST. M. BA</name>
+  <country>INDONESIA</country>
+  <latitude>-2.9</latitude>
+  <longitude>104.7</longitude>
+  <elevation>10</elevation>
+</row>
+<row>
+  <stn>962370</stn>
+  <name>PANGKAL PINANG</name>
+  <country>INDONESIA</country>
+  <latitude>-2.167</latitude>
+  <longitude>106.133</longitude>
+  <elevation>33</elevation>
+</row>
+<row>
+  <stn>962950</stn>
+  <name>TANJUNG KARANG/RADI</name>
+  <country>INDONESIA</country>
+  <latitude>-5.1</latitude>
+  <longitude>105.183</longitude>
+  <elevation>96</elevation>
+</row>
+<row>
+  <stn>963230</stn>
+  <name>KUALA BELAIT</name>
+  <country>INDONESIA</country>
+  <latitude>4.583</latitude>
+  <longitude>114.2</longitude>
+  <elevation>3</elevation>
+</row>
+<row>
+  <stn>965810</stn>
+  <name>PONTIANAK/SUPADIO</name>
+  <country>INDONESIA</country>
+  <latitude>-0.15</latitude>
+  <longitude>109.4</longitude>
+  <elevation>3</elevation>
+</row>
+<row>
+  <stn>966330</stn>
+  <name>BALIKPAPAN/SEPINGGA</name>
+  <country>INDONESIA</country>
+  <latitude>-1.267</latitude>
+  <longitude>116.9</longitude>
+  <elevation>3</elevation>
+</row>
+<row>
+  <stn>966850</stn>
+  <name>BANJARMASIN/SYAMSUD</name>
+  <country>INDONESIA</country>
+  <latitude>-3.433</latitude>
+  <longitude>114.75</longitude>
+  <elevation>20</elevation>
+</row>
+<row>
+  <stn>967430</stn>
+  <name>JAKARTA/KEMAYORAN</name>
+  <country>INDONESIA</country>
+  <latitude>-6.15</latitude>
+  <longitude>106.85</longitude>
+  <elevation>5</elevation>
+</row>
+<row>
+  <stn>967470</stn>
+  <name>HALIM INTL(CIV/MIL)</name>
+  <country>INDONESIA</country>
+  <latitude>-6.25</latitude>
+  <longitude>106.9</longitude>
+  <elevation>30</elevation>
+</row>
+<row>
+  <stn>967490</stn>
+  <name>JAKARTA/SOEKARNO-HA</name>
+  <country>INDONESIA</country>
+  <latitude>-6.117</latitude>
+  <longitude>106.65</longitude>
+  <elevation>8</elevation>
+</row>
+<row>
+  <stn>967810</stn>
+  <name>BANDUNG/HUSEIN</name>
+  <country>INDONESIA</country>
+  <latitude>-6.9</latitude>
+  <longitude>107.583</longitude>
+  <elevation>740</elevation>
+</row>
+<row>
+  <stn>968050</stn>
+  <name>CILACAP</name>
+  <country>INDONESIA</country>
+  <latitude>-7.733</latitude>
+  <longitude>109.017</longitude>
+  <elevation>6</elevation>
+</row>
+<row>
+  <stn>968810</stn>
+  <name>MADIUN/ISWAHYUD AFB</name>
+  <country>INDONESIA</country>
+  <latitude>-7.617</latitude>
+  <longitude>111.517</longitude>
+  <elevation>110</elevation>
+</row>
+<row>
+  <stn>969330</stn>
+  <name>SURABAYA/PERAK I</name>
+  <country>INDONESIA</country>
+  <latitude>-7.217</latitude>
+  <longitude>112.717</longitude>
+  <elevation>3</elevation>
+</row>
+<row>
+  <stn>969350</stn>
+  <name>SURABAYA/JUANDA</name>
+  <country>INDONESIA</country>
+  <latitude>-7.367</latitude>
+  <longitude>112.767</longitude>
+  <elevation>3</elevation>
+</row>
+<row>
+  <stn>969870</stn>
+  <name>BANYUWANGI</name>
+  <country>INDONESIA</country>
+  <latitude>-8.217</latitude>
+  <longitude>114.383</longitude>
+  <elevation>5</elevation>
+</row>
+<row>
+  <stn>969950</stn>
+  <name>CHRISTMAS ISLAND AE</name>
+  <country>CHRISTMAS ISLAND</country>
+  <latitude>-10.45</latitude>
+  <longitude>105.683</longitude>
+  <elevation>262</elevation>
+</row>
+<row>
+  <stn>969960</stn>
+  <name>COCOS ISLAND AERO</name>
+  <country>COCOS (KEELING) ISLANDS</country>
+  <latitude>-12.183</latitude>
+  <longitude>96.833</longitude>
+  <elevation>4</elevation>
+</row>
+<row>
+  <stn>970140</stn>
+  <name>MENADO/ SAM RATULAN</name>
+  <country>INDONESIA</country>
+  <latitude>1.533</latitude>
+  <longitude>124.917</longitude>
+  <elevation>80</elevation>
+</row>
+<row>
+  <stn>970480</stn>
+  <name>GORONTALO/JALALUDDI</name>
+  <country>INDONESIA</country>
+  <latitude>0.517</latitude>
+  <longitude>123.067</longitude>
+  <elevation>2</elevation>
+</row>
+<row>
+  <stn>970720</stn>
+  <name>PALU/MUTIARA</name>
+  <country>INDONESIA</country>
+  <latitude>-0.683</latitude>
+  <longitude>119.733</longitude>
+  <elevation>6</elevation>
+</row>
+<row>
+  <stn>971200</stn>
+  <name>MAJENE</name>
+  <country>INDONESIA</country>
+  <latitude>-2.5</latitude>
+  <longitude>119</longitude>
+  <elevation>8</elevation>
+</row>
+<row>
+  <stn>971260</stn>
+  <name>MASAMBA/ANDI JEMMA</name>
+  <country>INDONESIA</country>
+  <latitude>-2.55</latitude>
+  <longitude>120.367</longitude>
+  <elevation>50</elevation>
+</row>
+<row>
+  <stn>971460</stn>
+  <name>KENDARI/WOLTER MONG</name>
+  <country>INDONESIA</country>
+  <latitude>-4.1</latitude>
+  <longitude>122.433</longitude>
+  <elevation>50</elevation>
+</row>
+<row>
+  <stn>971800</stn>
+  <name>UJUNG PANDANG/HASAN</name>
+  <country>INDONESIA</country>
+  <latitude>-5.067</latitude>
+  <longitude>119.55</longitude>
+  <elevation>14</elevation>
+</row>
+<row>
+  <stn>971925</stn>
+  <name>BALI DENPASAR NGURA</name>
+  <country>INDONESIA</country>
+  <latitude>-8.75</latitude>
+  <longitude>115.167</longitude>
+  <elevation>4</elevation>
+</row>
+<row>
+  <stn>972300</stn>
+  <name>DENPASAR/NGURAH RAI</name>
+  <country>INDONESIA</country>
+  <latitude>-8.75</latitude>
+  <longitude>115.167</longitude>
+  <elevation>1</elevation>
+</row>
+<row>
+  <stn>972400</stn>
+  <name>MATARAM/SELAPARANG</name>
+  <country>INDONESIA</country>
+  <latitude>-8.533</latitude>
+  <longitude>116.067</longitude>
+  <elevation>3</elevation>
+</row>
+<row>
+  <stn>972600</stn>
+  <name>SUMBAWA BESAR/BRANG</name>
+  <country>INDONESIA</country>
+  <latitude>-8.433</latitude>
+  <longitude>117.417</longitude>
+  <elevation>3</elevation>
+</row>
+<row>
+  <stn>973000</stn>
+  <name>MAUMERE/WAI OTI</name>
+  <country>INDONESIA</country>
+  <latitude>-8.633</latitude>
+  <longitude>122.25</longitude>
+  <elevation>3</elevation>
+</row>
+<row>
+  <stn>973400</stn>
+  <name>WAINGAPU/MAU HAU</name>
+  <country>INDONESIA</country>
+  <latitude>-9.667</latitude>
+  <longitude>120.333</longitude>
+  <elevation>12</elevation>
+</row>
+<row>
+  <stn>974280</stn>
+  <name>DATSAV3 VIRT STATION (INDONESIA)</name>
+  <country>INDONESIA</country>
+  <latitude>-8.467</latitude>
+  <longitude>140.383</longitude>
+  <elevation>0</elevation>
+</row>
+<row>
+  <stn>974300</stn>
+  <name>TERNATE/BABULLAH</name>
+  <country>INDONESIA</country>
+  <latitude>0.767</latitude>
+  <longitude>127.367</longitude>
+  <elevation>23</elevation>
+</row>
+<row>
+  <stn>975600</stn>
+  <name>BIAK/FRANS KAISIEPO</name>
+  <country>INDONESIA</country>
+  <latitude>-1.183</latitude>
+  <longitude>136.117</longitude>
+  <elevation>11</elevation>
+</row>
+<row>
+  <stn>977240</stn>
+  <name>AMBON/PATTIMURA</name>
+  <country>INDONESIA</country>
+  <latitude>-3.7</latitude>
+  <longitude>128.083</longitude>
+  <elevation>12</elevation>
+</row>
+<row>
+  <stn>977900</stn>
+  <name>NEIRA</name>
+  <country>INDONESIA</country>
+  <latitude>-4.533</latitude>
+  <longitude>129.9</longitude>
+  <elevation>4</elevation>
+</row>
+<row>
+  <stn>978100</stn>
+  <name>TUAL/DUMATUBUN</name>
+  <country>INDONESIA</country>
+  <latitude>-5.683</latitude>
+  <longitude>132.75</longitude>
+  <elevation>12</elevation>
+</row>
+<row>
+  <stn>979000</stn>
+  <name>SAUMLAKI/OLILIT</name>
+  <country>INDONESIA</country>
+  <latitude>-7.983</latitude>
+  <longitude>131.3</longitude>
+  <elevation>24</elevation>
+</row>
+</data>
